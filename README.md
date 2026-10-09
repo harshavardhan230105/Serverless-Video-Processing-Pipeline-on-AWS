@@ -154,12 +154,6 @@ curl -X POST "http://localhost:9000/2015-03-31/functions/function/invocations" -
 
 ---
 
-## 🙏 Acknowledgment
-
-Built as part of an academic cloud computing project, based on a template provided by VISA Lab (MIT License).
-
----
-
 ## 📜 License
 
 This project is for educational and learning purposes.
