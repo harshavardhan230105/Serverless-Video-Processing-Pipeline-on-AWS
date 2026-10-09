@@ -150,10 +150,4 @@ curl -X POST "http://localhost:9000/2015-03-31/functions/function/invocations" -
 - **Infrastructure as Code** using Terraform or AWS SAM
 - **CI/CD pipeline** (GitHub Actions) for automated build and deployment
 - **CloudWatch dashboards and alarms**
-- Upgrade runtime to a newer Python version
-
----
-
-## 📜 License
-
-This project is for educational and learning purposes.
+- Upgrade runtime to a newer Python version.
